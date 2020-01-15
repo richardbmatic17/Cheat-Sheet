@@ -11,5 +11,4 @@ test-project/
       things.js
    app.js
    routes.js               //Require all routes in this and then require this file in 
-   app.js 
    package.json
